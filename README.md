@@ -30,22 +30,11 @@ Documents for NIW
 1) AMC-D-15-04866 Applied Mathematics and Computation
 Title: Extending linear finite elements to quadratic precision in arbitrary meshes
 
-Dear Mr. Milan Holec, 
-Thank you for your review of this manuscript.
-
 2) AMC-D-15-04866R1 Applied Mathematics and Computation
 Title: Extending linear finite elements to quadratic precision on arbitrary meshes
 
-Dear Mr. Milan Holec,
-
-Thank you once again for reviewing the above-referenced paper.  With your help the following final decision has now been reached: Accept.
-
 3) JCOMP-D-17-00915 Journal of Computational Physics
 Title: The construction of conservative radiation hydrodynamics algorithm in two dimensional spherical geometry: Part I: Staggered Lagrangian hydrodynamics.
-
-Dear Dr. Holec,
-
-Thank you for sending your report. Your kind help with Journal of Computational Physics is much appreciated.
 
 4) POP19-AR-58736	A model for plasma-neutral fluid interaction and its application to a study of CT formation in a magnetised Marshall gun	16-Oct-2019	11-Nov-2019	13-Nov-2019
 
@@ -84,11 +73,11 @@ Thank you for sending your report. Your kind help with Journal of Computational 
 Applied Mathematics and Computation - 2 reviews, impact factor 4.091
 Journal of Computational Physics - 1 publication, 1 review, impact factor 3.81
 Physics of Plasmas - 1 publication, 14 reviews, impact factor 2.39
-Plasma Physics and Controlled Fusion - 2 publications, impact factor
-Matter and Radiation at Extremes - 2 publications, impact factor 
-Nuclear Science and Engineering - 1 publication, impact factor
-International Journal for Numerical Methods in Fluids - 1 publication, impact factor
-Computers & Mathematics with Applications - 1 publication, impact factor
+Plasma Physics and Controlled Fusion - 2 publications, impact factor 2.458
+Matter and Radiation at Extremes - 2 publications, impact factor 2.845
+Nuclear Science and Engineering - 1 publication, impact factor 1.42
+International Journal for Numerical Methods in Fluids - 1 publication, impact factor 2.107
+Computers & Mathematics with Applications - 1 publication, impact factor 3.476
 
 
 ## 6. Code development / user base: developer of MFEM and HYDRA, github profile, userdata from github.
