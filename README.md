@@ -68,9 +68,13 @@ Title: The construction of conservative radiation hydrodynamics algorithm in two
 
 ## 4. Citation report: export from google-scholar.
 
-5/15/22	All	Since 2017
+5/15/22	
+                All	Since 2017
+
 Citations	206	201
+
 h-index	7	7
+
 i10-index	7	7
 
 ## 5. Journal ratings: impact factor of publications and reviews journals.
