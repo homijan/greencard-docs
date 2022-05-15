@@ -70,13 +70,22 @@ Title: The construction of conservative radiation hydrodynamics algorithm in two
 
 ## 5. Journal ratings: impact factor of publications and reviews journals.
 
+Physical Review Letters - 1 publication, impact factor 9.161
+
 Applied Mathematics and Computation - 2 reviews, impact factor 4.091
+
 Journal of Computational Physics - 1 publication, 1 review, impact factor 3.81
+
 Physics of Plasmas - 1 publication, 14 reviews, impact factor 2.39
+
 Plasma Physics and Controlled Fusion - 2 publications, impact factor 2.458
+
 Matter and Radiation at Extremes - 2 publications, impact factor 2.845
+
 Nuclear Science and Engineering - 1 publication, impact factor 1.42
+
 International Journal for Numerical Methods in Fluids - 1 publication, impact factor 2.107
+
 Computers & Mathematics with Applications - 1 publication, impact factor 3.476
 
 
