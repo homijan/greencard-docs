@@ -40,12 +40,42 @@ Dear Mr. Milan Holec,
 
 Thank you once again for reviewing the above-referenced paper.  With your help the following final decision has now been reached: Accept.
 
-3)JCOMP-D-17-00915 Journal of Computational Physics
+3) JCOMP-D-17-00915 Journal of Computational Physics
 Title: The construction of conservative radiation hydrodynamics algorithm in two dimensional spherical geometry: Part I: Staggered Lagrangian hydrodynamics.
 
 Dear Dr. Holec,
 
 Thank you for sending your report. Your kind help with Journal of Computational Physics is much appreciated.
+
+4) POP19-AR-58736	A model for plasma-neutral fluid interaction and its application to a study of CT formation in a magnetised Marshall gun	16-Oct-2019	11-Nov-2019	13-Nov-2019
+
+5) POP19-AR-58736R	A model for plasma-neutral fluid interaction and its application to a study of CT formation in a magnetised Marshall gun	18-Feb-2020	11-Mar-2020	04-Mar-2020
+
+6) POP19-AR-59251	Shock-Driven Kinetic and Diffusive Mix in High-Z Pusher ICF Designs	01-Dec-2019	21-Dec-2019	22-Dec-2019
+
+7) POP19-AR-59251R	Shock-Driven Kinetic and Diffusive Mix in High-Z Pusher ICF Designs	16-Jan-2020	26-Jan-2020	31-Jan-2020	
+
+8) POP21-AR-01033	Measuring magnetic flux suppression in high-power laser-plasma interactions	14-Jul-2021	23-Aug-2021	13-Aug-2021	
+
+9) POP21-AR-01033R	Measuring magnetic flux suppression in high-power laser-plasma interactions	29-Nov-2021	02-Dec-2021	14-Dec-2021	
+
+10) POP21-AR-TNMP2021-00241	A preliminary assessment of the sensitivity of uniaxially-driven fusion targets to flux-limited thermal conduction modeling	23-Feb-2021	26-Mar-2021	23-Mar-2021	
+
+11) POP21-AR-TNMP2021-00241R	A preliminary assessment of the sensitivity of uniaxially-driven fusion targets to flux-limited thermal conduction modeling	06-May-2021	16-May-2021	21-May-2021	
+
+12) POP22-AR-00318	The impact of ion transport coefficients on plasma discharge characteristics	14-Mar-2022	10-Apr-2022	12-Apr-2022	
+
+13) POP22-AR-00318R	The impact of ion transport coefficients on plasma discharge characteristics	TODO
+
+14) POP22-AR-00329	Effect of soft and hard x-rays on shock propagation, preheating and ablation characteristics in pure and doped Be ablators	14-Mar-2022	12-Apr-2022	11-Apr-2022	
+
+15) POP53362DPP17	Measurements of ion velocity separation in multi-species plasma shocks	20-Feb-2018	20-Mar-2018	20-Mar-2018	
+
+16) POP53362DPP17A (052891PHP)	Measurements of ion velocity separation and ionization in multi-species plasma shocks	24-Apr-2018	30-Apr-2018	09-May-2018	
+
+17) POP55964	Measurement of the sound speed in dense fluid deuterium along the cryogenic liquid Hugoniot	07-Sep-2018	05-Oct-2018	05-Oct-2018	
+
+18) POP55964A	Measurement of the sound speed in dense fluid deuterium along the cryogenic liquid Hugoniot
 
 ## 4. Citation report: export from google-scholar.
 
