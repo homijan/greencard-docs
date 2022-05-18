@@ -7,6 +7,8 @@ TODO
 
 ## 2. Copy of first page of each of MH publications.
 
+See `docs/MH_publications/1st-page/`
+
 [1] M. Holec, J. Limpouch, R. Liska, and S. Weber, High-Order Discontinuous Galerkin Nonlocal Transport and Energy Equations Scheme for Radiation-Hydrodynamics, Int. J. Numer. Meth. Fl. 83, 779 (2017).
 
 [2] M. Holec, J. Nikl, S. Weber, Nonlocal transport hydrodynamic model for laser heated plasmas, Phys. Plasmas 25, 032704 (2018).
