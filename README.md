@@ -3,6 +3,8 @@ Documents for NIW
 
 ## 1. Career narative: 2 pages.
 
+TODO
+
 ## 2. Copy of first page of each of MH publications.
 
 [1] M. Holec, J. Limpouch, R. Liska, and S. Weber, High-Order Discontinuous Galerkin Nonlocal Transport and Energy Equations Scheme for Radiation-Hydrodynamics, Int. J. Numer. Meth. Fl. 83, 779 (2017).
@@ -94,19 +96,36 @@ International Journal for Numerical Methods in Fluids - 1 publication, impact fa
 
 Computers & Mathematics with Applications - 1 publication, impact factor 3.476
 
-
 ## 6. Code development / user base: developer of MFEM and HYDRA, github profile, userdata from github.
+
+TODO: Get HYDRA feedback.
+
+Working with MFEM team on github stats.
 
 ## 7. Presentations (invited): EPS record, sampling of regular presentations.
 
+TODO
+
 ## 8. Memberships, activities: APS, NNSA, SIAM memberships.
+
+TODO
 
 ## 9. Project leadership: Project summary - name, dates, nature of work (printed from source). Examples: tokamak LDRD-ER, Omega, LEARN, TAMU, CTU student mentorship. 
 
+TODO:
+
 ## 10. Academic documents: copy of BSc., MEng., Ph.D.
+
+see `docs/diplomas/`
 
 ## 11. LLNL background materials: Projects and importance for the lab and country's security. HYDRA, WSC, Stockpile stewardship, MFE.
 
+TODO
+
 ## 12. General background: 6 articles for general public about ICF, MFE, Nuclear security.
 
+TODO
+
 ## 13. Reference letters: 5 non-collaborators and 1 collaborator.
+
+TODO
